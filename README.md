@@ -14,7 +14,7 @@ The dataset used is from [Kaggle - Credit Card Fraud Detection](https://www.kagg
 
 ##  How to Run
 1. Clone the repository or open the notebook directly in Google Colab:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Brindhaa372/credit_card_fraud/blob/main/credit_card_fraud.ipynb)
+   [![Open In Colab](https://github.com/Brindhaa372/Credit-Card-Fraud-Detection/blob/main/credit_card_fraud_detection.ipynb)
 2. Upload the dataset (`creditcard.csv`)
 3. Run each cell in sequence
 
