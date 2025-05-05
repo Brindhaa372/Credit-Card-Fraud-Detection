@@ -13,8 +13,8 @@ This project uses machine learning techniques to detect fraudulent credit card t
 The dataset used is from [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
 
 ##  How to Run
-1. Clone the repository or open the notebook directly in Google Colab:
-   [![Open In Colab](https://github.com/Brindhaa372/Credit-Card-Fraud-Detection/blob/main/credit_card_fraud_detection.ipynb)
+1. Clone the repository or open the notebook directly in Google Colab and copy the code given in this link:
+   [code](https://github.com/Brindhaa372/Credit-Card-Fraud-Detection/blob/main/credit_card_fraud_detection.ipynb)
 2. Upload the dataset (`creditcard.csv`)
 3. Run each cell in sequence
 
