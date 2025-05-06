@@ -24,6 +24,9 @@ The dataset used is from [Kaggle - Credit Card Fraud Detection](https://www.kagg
 - Model training and evaluation using Logistic Regression
 - Accuracy and classification metrics
 
+### Output 
+The model accurately detects fraudulent transactions based on user spending patterns and transaction data.
+
 ## Status
 Complete – ready to be reused or extended.
 
